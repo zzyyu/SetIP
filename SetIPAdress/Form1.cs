@@ -90,7 +90,7 @@ namespace SetIPAdress
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //测试
+            //测试1
             ManagementBaseObject myInMBO = null;
             ManagementBaseObject myOutMBO = null;
             ManagementClass myMClass = new ManagementClass("Win32_NetWorkAdapterConfiguration");
