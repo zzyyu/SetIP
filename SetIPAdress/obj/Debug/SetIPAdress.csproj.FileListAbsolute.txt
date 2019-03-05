@@ -1,0 +1,9 @@
+D:\C#\SetIPAdress\SetIPAdress\bin\Debug\SetIPAdress.exe.config
+D:\C#\SetIPAdress\SetIPAdress\bin\Debug\SetIPAdress.exe
+D:\C#\SetIPAdress\SetIPAdress\bin\Debug\SetIPAdress.pdb
+D:\C#\SetIPAdress\SetIPAdress\obj\Debug\SetIPAdress.csprojResolveAssemblyReference.cache
+D:\C#\SetIPAdress\SetIPAdress\obj\Debug\SetIPAdress.Form1.resources
+D:\C#\SetIPAdress\SetIPAdress\obj\Debug\SetIPAdress.Properties.Resources.resources
+D:\C#\SetIPAdress\SetIPAdress\obj\Debug\SetIPAdress.csproj.GenerateResource.Cache
+D:\C#\SetIPAdress\SetIPAdress\obj\Debug\SetIPAdress.exe
+D:\C#\SetIPAdress\SetIPAdress\obj\Debug\SetIPAdress.pdb
